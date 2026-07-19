@@ -1,0 +1,72 @@
+[
+  {
+    "email_id": "msg_001",
+    "sender": "sarah.jenkins@company.com",
+    "subject": "URGENT: Revisions needed for Q3 Client Proposal",
+    "timestamp": "2026-07-19T09:15:00Z",
+    "body": "Hi team, I just got off the phone with the client. They loved the overall pitch, but they need us to revise the pricing structure in Section 4 before the final board vote on Wednesday. Can someone update the financial spreadsheets by tomorrow evening (Monday, July 20th) at 5:00 PM so I can review them? Access the deck here: company-drive.local/q3-deck"
+  },
+  {
+    "email_id": "msg_002",
+    "sender": "security-alert@secure-bank-login-update.com",
+    "subject": "⚠️ CRITICAL: Your account access has been restricted",
+    "timestamp": "2026-07-19T10:02:00Z",
+    "body": "Dear Valued Customer, We detected an unauthorized login attempt on your account from an unknown IP address. For your protection, your access has been temporarily locked. You must click the link below to verify your identity and restore your funds within 24 hours or your account will be permanently closed: http://secure-bank-login-update.com/verify-identity/auth"
+  },
+  {
+    "email_id": "msg_003",
+    "sender": "no-reply@productivitytool.com",
+    "subject": "Your Weekly Performance Digest",
+    "timestamp": "2026-07-19T06:00:00Z",
+    "body": "Hey there! Here is your weekly summary for July 12 - July 18. You completed 14 tasks this week, which is 12% higher than your past 4-week average. Your most productive day was Tuesday. Check out our new blog post on 'How to conquer inbox anxiety' at productivitytool.com/blog."
+  },
+  {
+    "email_id": "msg_004",
+    "sender": "landlord.office@residentialpm.com",
+    "subject": "Notice of Scheduled Maintenance - Water Shutoff",
+    "timestamp": "2026-07-18T14:30:00Z",
+    "body": "Dear Residents, Please be advised that the main water line will be shut down for scheduled valve replacements on Friday, July 24th, between 9:00 AM and 1:00 PM. Please ensure all faucets are turned off completely during this window to prevent flooding when service is restored. Contact the front desk with questions."
+  },
+  {
+    "email_id": "msg_005",
+    "sender": "dave.miller@techpartners.net",
+    "subject": "Quick question regarding API specs",
+    "timestamp": "2026-07-19T11:45:00Z",
+    "body": "Hey, when you get a chance sometime this week, could you send over the updated endpoints for the web crawler project? No massive rush, just trying to align our wrapper libraries before our sync next month. Thanks, Dave."
+  },
+  {
+    "email_id": "msg_006",
+    "sender": "netflix-billing-department@netfiix-support.xyz",
+    "subject": "Update your payment method: Account suspended",
+    "timestamp": "2026-07-19T13:20:00Z",
+    "body": "We were unable to process your monthly subscription payment using the card on file. As a result, your streaming access has been paused. To resume watching your favorite shows, please update your billing details immediately by visiting our secure portal: http://netfiix-support.xyz/billing-update"
+  },
+  {
+    "email_id": "msg_007",
+    "sender": "mom@familyemail.com",
+    "subject": "Dinner next Sunday?",
+    "timestamp": "2026-07-19T14:10:00Z",
+    "body": "Hi sweetie! Just checking in to see if you and the team are free for dinner next Sunday (July 26th) around 6:00 PM? Let me know by Thursday so I can buy enough groceries. Also, remember to bring that plastic container I lent you last month!"
+  },
+  {
+    "email_id": "msg_008",
+    "sender": "notifications@github.com",
+    "subject": "[GitHub] Security Alert: vulnerability found in lodash dependency",
+    "timestamp": "2026-07-19T08:05:00Z",
+    "body": "Dependabot alert: A known high-severity security vulnerability has been reported in the 'lodash' package version < 4.17.21 utilized in your repository 'aegis-triage-engine'. Action required: Upgrade your dependency to version 4.17.21 or higher to patch the vulnerability. Run 'npm audit fix' to resolve automatically."
+  },
+  {
+    "email_id": "msg_009",
+    "sender": "marketing@flyairways.com",
+    "subject": "Flash Sale! 30% off flights to Europe ends tonight!",
+    "timestamp": "2026-07-19T12:00:00Z",
+    "body": "Pack your bags! For the next 12 hours only, use discount code FLY30 at checkout to slash 30% off all economy and business class round-trip fares to London, Paris, and Rome. Travel dates apply between September 1st and November 30th. Book now before seats sell out!"
+  },
+  {
+    "email_id": "msg_010",
+    "sender": "alex.hr@company.com",
+    "subject": "Action Required: Sign updated employee handbook",
+    "timestamp": "2026-07-17T16:00:00Z",
+    "body": "Hello Everyone, The corporate legal department has updated our standard remote work policies in the employee handbook. All active staff members must log into the HR portal (hr.company.local) and digitally sign the acknowledgement page. The deadline for compliance is Friday, July 24th at midnight."
+  }
+]
