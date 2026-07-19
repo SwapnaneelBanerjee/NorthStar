@@ -1,0 +1,149 @@
+[
+  {
+    "email_id": "msg_001",
+    "sender": "sarah.jenkins@company.com",
+    "summary": "Hi team, I just got off the phone with the client. They loved the overall pitch, but they need us to...",
+    "is_suspicious": false,
+    "risk_reason": null,
+    "importance_score": 1,
+    "action_required": true,
+    "action_items": [
+      {
+        "task": "They loved the overall pitch, but they need us to revise the pricing structure in Section 4 before the final board vote on Wednesday.",
+        "deadline": "Wednesday",
+        "execution_method": "Review email text to execute manual task."
+      },
+      {
+        "task": "Can someone update the financial spreadsheets by tomorrow evening (Monday, July 20th) at 5:00 PM so I can review them?",
+        "deadline": "by tomorrow evening",
+        "execution_method": "Review email text to execute manual task."
+      }
+    ]
+  },
+  {
+    "email_id": "msg_002",
+    "sender": "security-alert@secure-bank-login-update.com",
+    "summary": "Dear Valued Customer, We detected an unauthorized login attempt on your account from an unknown IP a...",
+    "is_suspicious": true,
+    "risk_reason": "Message asks the recipient to verify identity. Message reports an unauthorized login.",
+    "importance_score": 1,
+    "action_required": false,
+    "action_items": []
+  },
+  {
+    "email_id": "msg_003",
+    "sender": "no-reply@productivitytool.com",
+    "summary": "Hey there! Here is your weekly summary for July 12 - July 18. You completed 14 tasks this week, whic...",
+    "is_suspicious": false,
+    "risk_reason": null,
+    "importance_score": 1,
+    "action_required": false,
+    "action_items": []
+  },
+  {
+    "email_id": "msg_004",
+    "sender": "landlord.office@residentialpm.com",
+    "summary": "Dear Residents, Please be advised that the main water line will be shut down for scheduled valve rep...",
+    "is_suspicious": false,
+    "risk_reason": null,
+    "importance_score": 1,
+    "action_required": true,
+    "action_items": [
+      {
+        "task": "Please ensure all faucets are turned off completely during this window to prevent flooding when service is restored.",
+        "deadline": "Friday, July 24th",
+        "execution_method": "Review email text to execute manual task."
+      }
+    ]
+  },
+  {
+    "email_id": "msg_005",
+    "sender": "dave.miller@techpartners.net",
+    "summary": "Hey, when you get a chance sometime this week, could you send over the updated endpoints for the web...",
+    "is_suspicious": false,
+    "risk_reason": null,
+    "importance_score": 1,
+    "action_required": true,
+    "action_items": [
+      {
+        "task": "Hey, when you get a chance sometime this week, could you send over the updated endpoints for the web crawler project?",
+        "deadline": null,
+        "execution_method": "Review email text to execute manual task."
+      }
+    ]
+  },
+  {
+    "email_id": "msg_006",
+    "sender": "netflix-billing-department@netfiix-support.xyz",
+    "summary": "We were unable to process your monthly subscription payment using the card on file. As a result, you...",
+    "is_suspicious": true,
+    "risk_reason": "Sender or content uses a .xyz domain.",
+    "importance_score": 3,
+    "action_required": true,
+    "action_items": [
+      {
+        "task": "To resume watching your favorite shows, please update your billing details immediately by visiting our secure portal: http://netfiix-support.xyz/billing-update",
+        "deadline": null,
+        "execution_method": "Review email text to execute manual task."
+      }
+    ]
+  },
+  {
+    "email_id": "msg_007",
+    "sender": "mom@familyemail.com",
+    "summary": "Hi sweetie! Just checking in to see if you and the team are free for dinner next Sunday (July 26th) ...",
+    "is_suspicious": false,
+    "risk_reason": null,
+    "importance_score": 1,
+    "action_required": true,
+    "action_items": [
+      {
+        "task": "Also, remember to bring that plastic container I lent you last month!",
+        "deadline": "Sunday",
+        "execution_method": "Review email text to execute manual task."
+      }
+    ]
+  },
+  {
+    "email_id": "msg_008",
+    "sender": "notifications@github.com",
+    "summary": "Dependabot alert: A known high-severity security vulnerability has been reported in the 'lodash' pac...",
+    "is_suspicious": true,
+    "risk_reason": "Message uses an action-required prompt.",
+    "importance_score": 1,
+    "action_required": true,
+    "action_items": [
+      {
+        "task": "Action required: Upgrade your dependency to version 4.17.21 or higher to patch the vulnerability.",
+        "deadline": null,
+        "execution_method": "Review email text to execute manual task."
+      }
+    ]
+  },
+  {
+    "email_id": "msg_009",
+    "sender": "marketing@flyairways.com",
+    "summary": "Pack your bags! For the next 12 hours only, use discount code FLY30 at checkout to slash 30% off all...",
+    "is_suspicious": false,
+    "risk_reason": null,
+    "importance_score": 1,
+    "action_required": false,
+    "action_items": []
+  },
+  {
+    "email_id": "msg_010",
+    "sender": "alex.hr@company.com",
+    "summary": "Hello Everyone, The corporate legal department has updated our standard remote work policies in the ...",
+    "is_suspicious": false,
+    "risk_reason": null,
+    "importance_score": 3,
+    "action_required": true,
+    "action_items": [
+      {
+        "task": "All active staff members must log into the HR portal (hr.company.local) and digitally sign the acknowledgement page.",
+        "deadline": "Friday, July 24th at midnight",
+        "execution_method": "Review email text to execute manual task."
+      }
+    ]
+  }
+]
